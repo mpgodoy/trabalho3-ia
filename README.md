@@ -7,3 +7,6 @@
 
 ## Valor do GA de melhor resultado:
 run_ga(5000, 100, 2, 0.05, True) obteve resultado 0
+
+## Ex. 2
+TODO: Valores iniciais de theta_0, theta_1, valores de alpha e num_iterations que resultem na melhor execução da sua regressão linear. Coloque também o melhor erro quadrático médio obtido.
