@@ -1,4 +1,4 @@
-# Trabalho 1 da cadeira de Inteligência Artificial
+# Trabalho 3 da cadeira de Inteligência Artificial
 
 ## Integrantes
 * Artur Rossi | 303217
