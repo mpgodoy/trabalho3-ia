@@ -20,7 +20,7 @@ def compute_mse(theta_0, theta_1, data):
     #                x0 = 0 
     # => b = y0 
 
-    m = math.tan(theta_1)
+    m = (theta_1)
     b = theta_0
 
     errors = []
